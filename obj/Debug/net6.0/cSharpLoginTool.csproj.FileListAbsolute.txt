@@ -1,0 +1,15 @@
+C:\source\codeworks\cSharpLoginTool\bin\Debug\net6.0\cSharpLoginTool.exe
+C:\source\codeworks\cSharpLoginTool\bin\Debug\net6.0\cSharpLoginTool.deps.json
+C:\source\codeworks\cSharpLoginTool\bin\Debug\net6.0\cSharpLoginTool.runtimeconfig.json
+C:\source\codeworks\cSharpLoginTool\bin\Debug\net6.0\cSharpLoginTool.dll
+C:\source\codeworks\cSharpLoginTool\bin\Debug\net6.0\cSharpLoginTool.pdb
+C:\source\codeworks\cSharpLoginTool\obj\Debug\net6.0\cSharpLoginTool.csproj.AssemblyReference.cache
+C:\source\codeworks\cSharpLoginTool\obj\Debug\net6.0\cSharpLoginTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\cSharpLoginTool\obj\Debug\net6.0\cSharpLoginTool.AssemblyInfoInputs.cache
+C:\source\codeworks\cSharpLoginTool\obj\Debug\net6.0\cSharpLoginTool.AssemblyInfo.cs
+C:\source\codeworks\cSharpLoginTool\obj\Debug\net6.0\cSharpLoginTool.csproj.CoreCompileInputs.cache
+C:\source\codeworks\cSharpLoginTool\obj\Debug\net6.0\cSharpLoginTool.dll
+C:\source\codeworks\cSharpLoginTool\obj\Debug\net6.0\refint\cSharpLoginTool.dll
+C:\source\codeworks\cSharpLoginTool\obj\Debug\net6.0\cSharpLoginTool.pdb
+C:\source\codeworks\cSharpLoginTool\obj\Debug\net6.0\cSharpLoginTool.genruntimeconfig.cache
+C:\source\codeworks\cSharpLoginTool\obj\Debug\net6.0\ref\cSharpLoginTool.dll
